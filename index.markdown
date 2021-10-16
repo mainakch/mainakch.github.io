@@ -9,7 +9,7 @@ Interests
 
 My primary research interests are in the communication-theoretic and information-theoretic foundations of wireless systems.  I also enjoy building systems, teams and companies.  
 
-In addition, I have worked on problems related to genomic data compression, convex optimization, networked applications, timing channels, time synchronization and indoor positioning.
+In addition, I have worked on problems related to convex optimization, networked applications, timing channels, time synchronization and indoor positioning.  I am also interested in advancing the state of the art in genomic data compression, electronic health records, and precision medicine.
 
 If you are interested in working with me, let's connect!
 
