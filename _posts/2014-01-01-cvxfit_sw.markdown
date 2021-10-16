@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Cvxfit"
+categories: software
+---
+_A tool designed to perform optimization with a piecewise-linear or piecewise-quadratic approximation to general functions (python)_
+
+<!--more-->
+
+This [package](https://pypi.org/project/cvxfit/) fits a convex approximation to general functions using function values evaluated at some points in the domain and then uses standard solvers to solve the resulting problem.  This was done as a class project in [EE364b](https://web.stanford.edu/class/ee364b/).

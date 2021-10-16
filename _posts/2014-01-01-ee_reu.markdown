@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Graduate student mentor"
+categories: volunteer
+---
+_Stanford EE REU (Research Experience for Undergraduates), 2014-2016_
+
+<!--more-->

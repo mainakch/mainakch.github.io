@@ -1,0 +1,9 @@
+---
+layout: post
+title: ZaiNar
+categories: work
+---
+
+[ZaiNar](https://www.zainartech.com) leverages patented techniques to achieve nanosecond-level time synchronization and meter-level accuracy over RF spectrum. The technology is narrow bandwidth and flexible across radio frequencies and protocols.
+
+At ZaiNar, as the Wireless Systems Architect and a co-founder, I co-invented and co-developed software and hardware prototypes of ZaiNar's sub-ns time synchronization and sub-meter positioning on commodity Software Defined Radios. Now, as the Software lead, I am involved with various efforts to productize the early prototypes into full product solutions.

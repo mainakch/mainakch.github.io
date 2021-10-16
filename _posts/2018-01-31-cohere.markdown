@@ -1,0 +1,9 @@
+---
+layout: post
+title: Cohere Technologies
+categories: work
+---
+
+[Cohere Technologies](https://www.cohere-tech.com/)  is developing solutions for 5G wireless and beyond based on a novel waveform - Orthogonal Time Frequency Space (OTFS).
+
+At Cohere, I was part of both the Standards and the Systems development teams.  I was involved with various efforts to showcase Cohere's technology on the demo platform.
