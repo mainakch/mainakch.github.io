@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<img src="assets/images/profilepic.jpg" alt="Mainak photo" class="center" style="float:center;height:10em;height:15em;">
+<img src="assets/images/profilepic.jpg" alt="Mainak photo" class="center rounded-corners" style="height:10em;height:15em;">
 
 Interests
 ---------

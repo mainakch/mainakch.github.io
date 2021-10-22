@@ -25,9 +25,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   If you'd like to get in touch with me, I am usually most responsive over email.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# github_username:  mainakch
+github_username:  mainakch
 show_excerpts: true
 excerpt_separator: "<!--more-->"
+google_analytics: "G-EWTX115GY2"
 
 # Build settings
 theme: minima
