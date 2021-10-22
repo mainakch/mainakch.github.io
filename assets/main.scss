@@ -1,5 +1,6 @@
 ---
 ---
+
 @import "{{ site.theme }}";
 
 img.center {
@@ -10,4 +11,8 @@ img.center {
 
 img.rounded-corners {
     border-radius: 50%;
+}
+
+body {
+    overflow-y: scroll;
 }
