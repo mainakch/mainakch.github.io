@@ -16,7 +16,7 @@ If you are interested in working with me, let's connect!
 Brief Bio
 ---------
 
-At present, I am the Wireless Systems Architect and a co-founder at [ZaiNar]({% post_url 2021-09-29-zainar %}).  Prior to this, I was a Senior Engineer at [Cohere Technologies]({% post_url 2018-01-31-cohere %}).
+I am a co-founder at [ZaiNar]({% post_url 2021-09-29-zainar %}), where I served primarily as the Wireless Systems Architect until May 2, 2022.  Prior to this, I was a Senior Engineer at [Cohere Technologies]({% post_url 2018-01-31-cohere %}).
 
 I spent six wonderful years in the MS/PhD (Electrical Engineering) program at [Stanford University](https://ee.stanford.edu) with [Andrea Goldsmith](https://wsl.stanford.edu/people/andrea-goldsmith) as my primary advisor. My [PhD thesis](https://searchworks.stanford.edu/view/12137362) is on noncoherent energy-detection-based communications for massive MIMO systems.  During my PhD, I also co-founded [ImpriMed](http://www.imprimedicine.com), which is now offering assays for personalizing pet cancer treatment.
 
@@ -25,7 +25,7 @@ My undergraduate studies were in [IIT Kanpur](http://www.iitk.ac.in) where I maj
 Timeline
 --------
 
-- **Feb 2018 - Present:** _Co-Founder and Wireless Systems Architect_, ZaiNar, Redwood City, USA
+- **Feb 2018 - May 2022:** _Co-Founder and Wireless Systems Architect_, ZaiNar, Redwood City, USA
 - **Oct 2017 - Jan 2018:** _Senior Engineer_, Cohere Technologies, Santa Clara, USA
 - **Summer 2013:** _Summer intern_, Broadcom, Sunnyvale, USA
 - **2011 - Sep 2017:** _MS/PhD student (EE)_, Stanford University, Stanford, USA

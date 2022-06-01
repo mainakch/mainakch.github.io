@@ -21,7 +21,7 @@ permalink: /software/
 Programming paradigms
 -------------------------------
 
-I like exploring emerging programming paradigms (especially around concurrent programming or applications with hard latency constraints) and learning about comparative strengths and weaknesses of general-purpose programming languages (e.g., C++, Python, Java, Go, Rust, Haskell).  For my projects, I have used the following.
+I like exploring emerging programming paradigms (especially around concurrent programming or applications with hard latency constraints) and learning about comparative strengths and weaknesses of general-purpose programming languages (e.g., C++, Python, Java, Go, Rust, Haskell, Common Lisp).  For my projects, I have used the following.
 
 - **Systems Programming:** [modern C++](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines), C, UNIX/Linux
 - **Scripting:** Python, Bash
