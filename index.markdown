@@ -7,9 +7,9 @@ layout: home
 Interests
 ---------
 
-My primary interests are in the theory, practice and art of wireless system design.
+My primary interests are in the theory, practice and art of wireless system design, from baseband processing all the way to end-user applications.
 
-I have also worked on problems in convex optimization, networked applications, timing channels, time synchronization and indoor positioning.  I am also interested in precision medicine and digital health.  Perhaps unsurprisingly, I believe that inter-disciplinary cross-pollination of ideas is a powerful catalyst for creativity.
+In addition, I have worked on various problems in convex optimization, computer networking, timing channels, time synchronization and indoor positioning.  I am also interested in precision medicine, digital health and startups.  I believe that inter-disciplinary cross-pollination of ideas is a powerful catalyst for innovation.
 
 If you are interested in working with me, let's connect! 
 
