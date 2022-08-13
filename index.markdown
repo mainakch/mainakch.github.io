@@ -9,7 +9,7 @@ Interests
 
 My primary interests are in the theory, practice and art of wireless systems for communications, sensing and prediction.  I am interested in all layers of the protocol stack, from baseband processing to the application-layer.
 
-In addition, I have worked on various problems in convex optimization, computer networking, timing channels, time synchronization and indoor positioning.  I am also interested in precision medicine, digital health and entrepreneurship.
+In addition, I have worked on various problems in mathematical optimization, computer networking, timing channels, time synchronization and indoor positioning.  I am also interested in precision medicine, digital health and entrepreneurship.
 
 If you are interested in working with me, let's connect! 
 
