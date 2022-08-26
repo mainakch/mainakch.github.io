@@ -12,6 +12,9 @@ permalink: /papers/
     {%- if page.list_title -%}
       <h2 class="post-list-heading">{{ page.list_title }}</h2>
     {%- endif -%}
+
+    <a href="assets/sorted_references.bib"> Complete BibTex list </a> 
+
     <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for paper in papers -%}
