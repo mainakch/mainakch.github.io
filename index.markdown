@@ -17,9 +17,8 @@ Brief Bio
 ---------
 
 I am a Member of Technical Staff at the Radio Systems Research Group within [Bell Labs Core Research](https://www.bell-labs.com/institute/blog/accelerating-a-new-era-of-research-innovation-at-nokia-bell-labs) where I am involved in 6G research with a focus on wireless sensing and distributed systems.
-I am also a co-founder at [ZaiNar]({% post_url 2022-06-05-zainar %}), where I served as the Wireless Systems Architect and a Software Lead.
 
-I spent six wonderful years in the MS/PhD (Electrical Engineering) program at [Stanford University](https://ee.stanford.edu) with [Andrea Goldsmith](https://ece.princeton.edu/people/andrea-goldsmith) as my primary advisor. My [PhD thesis](https://searchworks.stanford.edu/view/12137362) is on noncoherent energy-detection-based communications for massive MIMO systems.  During my PhD, I was involved with [ImpriMed](http://www.imprimedicine.com), which is now offering assays for personalizing pet cancer treatment.
+My past roles included startup experiences at [ZaiNar]({% post_url 2022-06-05-zainar %}), where I served as the Wireless Systems Architect and a Software Lead, as well as at Cohere Technologies, where I served as a Senior Engineer.  Before that, I spent six wonderful years in the MS/PhD (Electrical Engineering) program at [Stanford University](https://ee.stanford.edu) with [Andrea Goldsmith](https://ece.princeton.edu/people/andrea-goldsmith) as my primary advisor. My [PhD thesis](https://searchworks.stanford.edu/view/12137362) is on noncoherent energy-detection-based communications for massive MIMO systems.  During my PhD, I was involved with [ImpriMed](http://www.imprimedicine.com), which is now offering assays for personalizing pet cancer treatment.
 
 My undergraduate studies were in [IIT Kanpur](http://www.iitk.ac.in) where I majored in Electrical Engineering. My BTech project advisor was [Ajit Chaturvedi](https://www.iitr.ac.in/institute/pages/Director_IIT_Roorkee.html). Before that, I went to [South Point High School](https://www.southpoint.edu.in/) in my hometown of Kolkata, India.
 
