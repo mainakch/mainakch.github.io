@@ -11,12 +11,13 @@ My primary interests are in the theory, practice and art of wireless systems for
 
 In addition, I have worked on various problems in mathematical optimization, computer networking, timing channels, time synchronization and indoor positioning.  I am also interested in precision medicine, digital health and entrepreneurship.
 
-If you are interested in working with me, let's connect! 
+If you are interested in working with me, let's connect!
 
 Brief Bio
 ---------
 
-I am a co-founder at [ZaiNar]({% post_url 2022-06-05-zainar %}), where I served primarily as the Wireless Systems Architect and a Software Lead until May 2, 2022.  Prior to this, I was a Senior Engineer at [Cohere Technologies]({% post_url 2018-01-31-cohere %}).
+I am a Member of Technical Staff at the Radio Systems Research Group within [Bell Labs Core Research](https://www.bell-labs.com/institute/blog/accelerating-a-new-era-of-research-innovation-at-nokia-bell-labs) where I am involved in 6G research with a focus on wireless sensing and distributed systems.
+I am also a co-founder at [ZaiNar]({% post_url 2022-06-05-zainar %}), where I served as the Wireless Systems Architect and a Software Lead.
 
 I spent six wonderful years in the MS/PhD (Electrical Engineering) program at [Stanford University](https://ee.stanford.edu) with [Andrea Goldsmith](https://ece.princeton.edu/people/andrea-goldsmith) as my primary advisor. My [PhD thesis](https://searchworks.stanford.edu/view/12137362) is on noncoherent energy-detection-based communications for massive MIMO systems.  During my PhD, I was involved with [ImpriMed](http://www.imprimedicine.com), which is now offering assays for personalizing pet cancer treatment.
 
@@ -25,6 +26,7 @@ My undergraduate studies were in [IIT Kanpur](http://www.iitk.ac.in) where I maj
 Timeline
 --------
 
+- **Oct 2022 - Present:** _Member of Technical Staff_, Bell Labs Core Research, Murray Hill, USA
 - **Feb 2018 - May 2022:** _Co-Founder and Wireless Systems Architect_, ZaiNar, Redwood City, USA
 - **Oct 2017 - Jan 2018:** _Senior Engineer_, Cohere Technologies, Santa Clara, USA
 - **Summer 2013:** _Summer intern_, Broadcom, Sunnyvale, USA
