@@ -11,7 +11,7 @@ My primary interests are in the theory, practice and art of wireless systems for
 
 I am also interested in the theory and applications of optimization, statistics and computer networking, and in digital health and precision medicine.
 
-I relish the opportunity to work with creative problem solvers across disciplines.  If you are interested in working with me, let's connect! 
+I relish the opportunity to work with creative (but not necessarily visionary or disruptive) problem solvers across disciplines.  If you are interested in working with me, let's connect! 
 
 Brief Bio
 ---------
