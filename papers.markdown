@@ -18,7 +18,6 @@ permalink: /papers/
     </h3>
 
     The following list excludes publications / patents which have not undergone technical peer review.
-    \n
 
     <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
