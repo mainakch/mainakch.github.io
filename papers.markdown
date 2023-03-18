@@ -17,7 +17,8 @@ permalink: /papers/
       <a href="/assets/sorted_references.bib"> Bibtex </a> 
     </h3>
 
-    The following list excludes publications / patents which has not undergone technical peer review.
+    The following list excludes publications / patents which have not undergone technical peer review.
+    \n
 
     <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
