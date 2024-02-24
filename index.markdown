@@ -9,7 +9,7 @@ Interests
 
 My primary interests are in the theory, practice and art of wireless systems for communications, sensing and prediction.  I am interested in all layers of the protocol stack, from the physical layer to the application layer.
 
-I am also interested in the theory and applications of optimization, statistics and computer networking towards building trustworthy distributed systems.
+I am also interested in building trustworthy distributed systems.
 
 I relish the opportunity to work with [creative](https://paulgraham.com/newthings.html) (but not necessarily visionary or disruptive) problem solvers across disciplines.
 
