@@ -11,7 +11,7 @@ My primary interests are in the theory, practice and art of wireless systems for
 
 I am also interested in building trustworthy distributed systems.
 
-I relish the opportunity to work with generative natural intelligence (GenNI) typically embodied in [creative](https://paulgraham.com/newthings.html) (but not necessarily visionary or disruptive) problem solvers across disciplines.
+I relish the opportunity to work with the generative natural intelligence (GenNI) typically embodied in [creative](https://paulgraham.com/newthings.html) (but not necessarily visionary or disruptive) problem solvers across disciplines.
 
 Brief Bio
 ---------
