@@ -11,12 +11,12 @@ My primary interests are in the theory, practice and art of wireless systems for
 
 I am also interested in building trustworthy distributed systems.
 
-I relish the opportunity to work with the generative natural intelligence (GenNI) typically embodied in [creative](https://paulgraham.com/newthings.html) (but not necessarily visionary or disruptive) problem solvers across disciplines.
+I relish the opportunity to work with [creative](https://paulgraham.com/newthings.html) (but not necessarily visionary or disruptive) problem solvers across disciplines.
 
 Brief Bio
 ---------
 
-I am a Member of Technical Staff at the Radio Systems Research Group within [Bell Labs Core Research](https://www.bell-labs.com/institute/blog/accelerating-a-new-era-of-research-innovation-at-nokia-bell-labs) where I am involved in research with a focus on wireless sensing and distributed systems.
+I am a Member of Technical Staff within [Bell Labs](https://www.bell-labs.com/institute/blog/accelerating-a-new-era-of-research-innovation-at-nokia-bell-labs) where I am involved in research with a focus on wireless sensing and distributed systems.
 
 Previously, I served as the Wireless Systems Architect and a Software Lead at [ZaiNar]({% post_url 2022-06-05-zainar %}), prior to which I served as a Senior Engineer at [Cohere Technologies](https://www.cohere-tech.com).  Before that, I spent six wonderful years in the MS/PhD (Electrical Engineering) program at [Stanford University](https://ee.stanford.edu) with [Andrea Goldsmith](https://en.wikipedia.org/wiki/Andrea_Goldsmith_(engineer)) as my primary advisor. My [PhD thesis](https://searchworks.stanford.edu/view/12137362) is on noncoherent energy-detection-based communications for massive MIMO systems.  During my PhD, I was involved with [ImpriMed](http://www.imprimedicine.com), which is now offering assays for personalizing pet cancer treatment.
 
@@ -25,13 +25,15 @@ My undergraduate studies were in [IIT Kanpur](http://www.iitk.ac.in) where I maj
 Timeline
 --------
 
-- **Oct 2022 - Present:** _Member of Technical Staff_, Bell Labs Core Research, Murray Hill, USA
+- **Oct 2022 - Present:** _Member of Technical Staff_, Nokia Bell Labs, Murray Hill, USA
 - **Feb 2018 - May 2022:** _Co-Founder and Wireless Systems Architect_, ZaiNar, Redwood City, USA
 - **Oct 2017 - Jan 2018:** _Senior Engineer_, Cohere Technologies, Santa Clara, USA
 - **Summer 2013:** _Summer intern_, Broadcom, Sunnyvale, USA
 - **2011 - Sep 2017:** _MS/PhD student (EE)_, Stanford University, Stanford, USA
 - **2007 - 2011:** _Undergraduate student (EE)_, IIT Kanpur, Kanpur, India
 - **2005 - 2007:** _Higher secondary student_, South Point High School, Kolkata, India
+
+<!---
 
 Honors
 --------
@@ -45,4 +47,4 @@ Honors
 - **2011:** _Sridhar Memorial Prize_ for academic performance, IIT Kanpur
 - **2011:** _Amit Saxena Memorial Award_ for subjects related to electronic circuits, IIT Kanpur
 
-
+-->
