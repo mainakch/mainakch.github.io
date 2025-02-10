@@ -7,7 +7,7 @@ layout: home
 Interests
 ---------
 
-My primary interests are in the theory, practice and art of wireless systems for communications, sensing and prediction.  I am interested in all layers of the protocol stack, from the physical layer to the application layer.
+My primary interests are in the theory, practice and art of wireless systems for communications, sensing and prediction (both computational and statistical).  I am interested in all [layers](https://en.wikipedia.org/wiki/Layer_8) of the systems I work on.
 
 I am also interested in building trustworthy distributed systems.
 
@@ -16,16 +16,16 @@ I relish the opportunity to work with [creative](https://paulgraham.com/newthing
 Brief Bio
 ---------
 
-I am a Member of Technical Staff within [Bell Labs](https://www.bell-labs.com/institute/blog/accelerating-a-new-era-of-research-innovation-at-nokia-bell-labs) where I am involved in research with a focus on wireless sensing and distributed systems.
+I am currently building trustworthy distributed systems for various emerging verticals. 
 
-Previously, I served as the Wireless Systems Architect and a Software Lead at [ZaiNar]({% post_url 2022-06-05-zainar %}), prior to which I served as a Senior Engineer at [Cohere Technologies](https://www.cohere-tech.com).  Before that, I spent six wonderful years in the MS/PhD (Electrical Engineering) program at [Stanford University](https://ee.stanford.edu) with [Andrea Goldsmith](https://en.wikipedia.org/wiki/Andrea_Goldsmith_(engineer)) as my primary advisor. My [PhD thesis](https://searchworks.stanford.edu/view/12137362) is on noncoherent energy-detection-based communications for massive MIMO systems.  During my PhD, I was involved with [ImpriMed](http://www.imprimedicine.com), which is now offering assays for personalizing pet cancer treatment.
+Previously, I was a Member of Technical Staff within [Bell Labs](https://www.bell-labs.com/).  Prior to that, I served as the Wireless Systems Architect and a Software Lead at [ZaiNar]({% post_url 2022-06-05-zainar %}), before which I served as a Senior Engineer at [Cohere Technologies](https://www.cohere-tech.com).  I spent six wonderful years in the MS/PhD (Electrical Engineering) program at [Stanford University](https://ee.stanford.edu) with [Andrea Goldsmith](https://en.wikipedia.org/wiki/Andrea_Goldsmith_(engineer)) as my primary advisor. My [PhD thesis](https://searchworks.stanford.edu/view/12137362) is on noncoherent energy-detection-based communications for massive MIMO systems.  During my PhD, I was involved with [ImpriMed](http://www.imprimedicine.com), which is now offering assays for personalizing pet cancer treatment.
 
 My undergraduate studies were in [IIT Kanpur](http://www.iitk.ac.in) where I majored in Electrical Engineering. My BTech project advisor was [Ajit Chaturvedi](https://en.wikipedia.org/wiki/Ajit_Kumar_Chaturvedi). Before that, I went to [South Point High School](https://www.southpoint.edu.in/) in my hometown of Kolkata, India.
 
 Timeline
 --------
 
-- **Oct 2022 - Present:** _Member of Technical Staff_, Nokia Bell Labs, Murray Hill, USA
+- **Oct 2022 - Jan 2025:** _Member of Technical Staff_, Nokia Bell Labs, Murray Hill, USA
 - **Feb 2018 - May 2022:** _Co-Founder and Wireless Systems Architect_, ZaiNar, Redwood City, USA
 - **Oct 2017 - Jan 2018:** _Senior Engineer_, Cohere Technologies, Santa Clara, USA
 - **Summer 2013:** _Summer intern_, Broadcom, Sunnyvale, USA
