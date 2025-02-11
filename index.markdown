@@ -7,7 +7,7 @@ layout: home
 Interests
 ---------
 
-My primary interests are in the theory, practice and art of wireless systems for communications, sensing and prediction (both computational and statistical).  I am interested in all [layers](https://en.wikipedia.org/wiki/Layer_8) of the systems I work on.
+My primary interests are in the theory, practice and art of wireless systems for communications, sensing and prediction, leveraging both computational (including, but not limited to [AI](https://en.wikipedia.org/wiki/Artificial_intelligence)) and mathematical tools.  I am interested in all [layers](https://en.wikipedia.org/wiki/Layer_8) of the systems I work on.
 
 I am also interested in building trustworthy distributed systems.
 
